@@ -1,0 +1,78 @@
+﻿<!--
+    出差功能：模糊+组合查询界面的流程：
+    1、在页面中输入模糊查询条件:工号、姓名
+    （允许不输入，即该条件没有限制）
+    2、将条件交给后台，由后台得到符合该模糊条件的数组，并返回前台
+    3、在前台显示该数组的各项元素
+ -->
+
+@{
+    ViewData["Title"] = "Business Query";
+    //var students = ViewData["Students"] as List<Student>;
+}
+
+
+<script type="text/javascript" src="~/js/Business.js"></script>
+
+<div id="morris-bar-chart" >
+    <div class=" box-name ui-draggable-handle box ui-draggable ui-droppable">
+        <h4>将选择查询方式，并将相应条件输入相应文本框中，点击“查询”</h4>
+        <table>
+            <thead>
+                <tr>
+                    <th>工号</th>
+                    <th>&nbsp</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><input id="Query_Id" type="text" style="height:25px;width:100px" /></td>
+                    <th></th>
+                    <td><button type="button" onclick="Query()">查询</button></td>
+                </tr>
+            </tbody>
+        </table>
+        <span>（工号支持精确查询）</span><br />
+
+        <table>
+            <thead>
+                <tr>
+                    <th>姓名</th>
+                    <th>&nbsp</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody >
+                <tr>
+                    <td><input id="Query_Name" type="text" style="height:25px;width:100px" /></td>
+                    <th></th>
+                    <td><button id="Query_Button" type="button" onclick="Query()">查询</button></td>
+                </tr>
+            </tbody>
+        </table>
+        <span>（姓名支持模糊查询）</span><br />
+
+    </div>
+
+    <br />
+    <br />
+
+    <div class="box-content no-padding">
+        <table id="Query_table"class="table table-striped table-bordered table-hover table-heading no-border-bottom">
+            <thead>
+                <tr>
+                    <th>序号</th>
+                    <th>出差编号</th>
+                    <th>员工编号</th>
+                    <th>员工姓名</th>
+                    <th>开始时间</th>
+                    <th>结束时间</th>
+                    <th>总时长</th>
+                </tr>
+            </thead>
+            <tbody id="Query_tbody">
+            </tbody>
+        </table>
+    </div>
+</div>

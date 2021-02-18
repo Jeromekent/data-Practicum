@@ -1,0 +1,168 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>员工考勤管理系统</title>
+
+    <!-- Core CSS - Include with every page -->
+    <link href="~/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+    <link href="~/font-awesome/css/font-awesome.css" type="text/css" rel="stylesheet">
+
+    <!-- Page-Level Plugin CSS - Dashboard -->
+    <link href="~/css/plugins/morris/morris-0.4.3.min.css" type="text/css" rel="stylesheet">
+    <link href="~/css/plugins/timeline/timeline.css" type="text/css" rel="stylesheet">
+
+    <!-- SB Admin CSS - Include with every page -->
+    <link href="~/css/sb-admin.css" type="text/css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" />
+
+
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="margin-bottom: 0">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">员工考勤管理系统</a>
+            </div>
+            <!-- /.navbar-header -->
+
+
+            <div class="navbar-default navbar-static-side" role="navigation">
+                <div class="sidebar-collapse">
+                    <ul class="nav" id="side-menu">
+
+                        <li>
+                            <a href='@Url.Action("Index","Home")'><i class="fa fa-dashboard fa-fw"></i> 主页</a>
+                        </li>
+
+                        <li>
+                            <a href="#"><i class="fa fa-wrench fa-fw"></i> 员工<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="#">个人基本信息</a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Action("find_achievements","staff")">个人考勤信息</a>
+                                </li>
+
+                            </ul>
+                            <!-- /.nav-second-level -->
+                        </li>
+
+                        <li>
+                            <a href="#"><i class="fa fa-sitemap fa-fw"></i> 管理员<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+
+                                <li>
+                                    <a href="@Url.Action("import","manager")">信息导入</a>
+                                </li>
+
+
+                                <li>
+                                    <a href="#">信息管理 <span class="fa arrow"></span></a>
+                                    <ul class="nav nav-third-level">
+
+                                        <li>
+                                            <a href="#">个人基本信息</a>
+                                        </li>
+
+                                        <li>
+                                            <a href="#">出勤信息</a>
+                                        </li>
+
+                                        <li>
+                                            <a href="@Url.Action("overtime_information","manager")">加班信息</a>
+                                        </li>
+
+                                        <li>
+                                            <a href="@Url.Action("offwork_information","manager")">请假信息</a>
+                                        </li>
+
+                                        <li>
+                                            <a href="@Url.Action("Index","Business")">出差信息</a>
+                                        </li>
+
+                                        <li>
+                                            <a href="@Url.Action("Index","Department")">部门信息</a>
+                                        </li>
+                                    </ul>
+                                    <!-- /.nav-third-level -->
+                                </li>
+
+                                <li>
+                                    <a href="#">月统计 <span class="fa arrow"></span></a>
+                                    <ul class="nav nav-third-level">
+                                        <li>
+                                            <a href="@Url.Action("attendance","statistics")">出勤月统计</a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("offwork","statistics")">请假月统计</a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("bussiness","statistics")">出差月统计</a>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("overtime","statistics")">加班月统计</a>
+                                        </li>
+                                    </ul>
+                                    <!-- /.nav-third-level -->
+                                </li>
+                            </ul>
+                            <!-- /.nav-second-level -->
+                        </li>
+
+                    </ul>
+                    <!-- /#side-menu -->
+                </div>
+                <!-- /.sidebar-collapse -->
+            </div>
+            <!-- /.navbar-static-side -->
+        </nav>
+
+        <div id="page-wrapper">
+            @RenderBody()
+        </div>
+        <!-- /#page-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+    <!-- Core Scripts - Include with every page -->
+    <script src="~/js/jquery-1.10.2.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/plugins/metisMenu/jquery.metisMenu.js"></script>
+
+    <!-- Page-Level Plugin Scripts - Dashboard -->
+    @*<script src="~/js/plugins/morris/raphael-2.1.0.min.js"></script>
+    <script src="~/js/plugins/morris/morris.js"></script>*@
+
+
+    <!-- SB Admin Scripts - Include with every page -->
+    <script src="~/js/sb-admin.js"></script>
+
+    <!-- Page-Level Demo Scripts - Dashboard - Use for reference -->
+    <script src="~/js/demo/dashboard-demo.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#dataTables-example').dataTable();
+        });
+    </script>
+
+
+</body>
+
+</html>

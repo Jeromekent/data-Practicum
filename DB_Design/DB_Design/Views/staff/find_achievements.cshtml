@@ -1,0 +1,160 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+    <head>
+        <script type="text/javascript">
+    function att() {
+        var wid = document.getElementById("nid").value;
+        var wname = document.getElementById("name").value;
+
+
+    var xmlhttp;
+    if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+        xmlhttp = new XMLHttpRequest();
+    }
+    else {// code for IE6, IE5
+        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+
+    xmlhttp.onreadystatechange = function () {
+        if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+            var f = xmlhttp.responseText;
+            if (xmlhttp.responseText == "true")
+                window.location.href = "@Url.Action("attendance","staff")?id=" + wid;
+            else
+            alert("查无此人");
+        }
+    }
+
+    xmlhttp.open("POST", "/staff/check_staff", true);
+    xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    xmlhttp.send("&id="+wid+"&name="+wname);
+}
+
+   function bus() {
+        var wid = document.getElementById("nid").value;
+        var wname = document.getElementById("name").value;
+
+
+    var xmlhttp;
+    if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+        xmlhttp = new XMLHttpRequest();
+    }
+    else {// code for IE6, IE5
+        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+
+    xmlhttp.onreadystatechange = function () {
+        if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+            var f = xmlhttp.responseText;
+            if (xmlhttp.responseText == "true")
+                window.location.href = "@Url.Action("bussiness","staff")?id=" + wid;
+            else
+            alert("查无此人");
+        }
+    }
+
+    xmlhttp.open("POST", "/staff/check_staff", true);
+    xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    xmlhttp.send("&id="+wid+"&name="+wname);
+            }
+
+
+               function off() {
+        var wid = document.getElementById("nid").value;
+        var wname = document.getElementById("name").value;
+
+
+    var xmlhttp;
+    if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+        xmlhttp = new XMLHttpRequest();
+    }
+    else {// code for IE6, IE5
+        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+
+    xmlhttp.onreadystatechange = function () {
+        if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+            var f = xmlhttp.responseText;
+            if (xmlhttp.responseText == "true")
+                window.location.href = "@Url.Action("offwork","staff")?id=" + wid;
+            else
+            alert("查无此人");
+        }
+    }
+
+    xmlhttp.open("POST", "/staff/check_staff", true);
+    xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    xmlhttp.send("&id="+wid+"&name="+wname);
+            }
+
+               function over() {
+        var wid = document.getElementById("nid").value;
+        var wname = document.getElementById("name").value;
+
+
+    var xmlhttp;
+    if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+        xmlhttp = new XMLHttpRequest();
+    }
+    else {// code for IE6, IE5
+        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+
+    xmlhttp.onreadystatechange = function () {
+        if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+            var f = xmlhttp.responseText;
+            if (xmlhttp.responseText == "true")
+                window.location.href = "@Url.Action("overtime","staff")?id=" + wid;
+            else
+            alert("查无此人");
+        }
+    }
+
+    xmlhttp.open("POST", "/staff/check_staff", true);
+    xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    xmlhttp.send("&id="+wid+"&name="+wname);
+}
+
+
+        </script>
+
+    </head>
+
+
+<div class="panel-title">
+    <h1 class="text-center">员工个人考勤信息查询</h1>
+</div>
+<div class="panel-body">
+    <form  method="post"  name="myform">
+        <div class="form-group">
+            <span>
+                <label class="la" for="inputSuccess">
+                    输入工号:
+                    <input type="text" class="form-control" id="nid">
+                </label>
+            </span>
+            <span>
+                <label class="control-label" for="inputWarning">
+                    输入姓名:
+                    <input type="text" class="form-control" id="name">
+                </label>
+            </span>
+
+          
+        </div>
+        <div >
+            <button type="button" onclick="att()"  class="btn btn-success"  >出勤统计</button>
+
+            <button type="button"  onclick="bus()" class=" btn btn-success">出差统计</button>
+
+            <button type="button"  onclick="off()" class="btn btn-success">请假统计</button>
+
+            <button type="button" onclick="over()" class="btn btn-success" >加班统计</button>
+        </div>
+    </form>
+</div>
+

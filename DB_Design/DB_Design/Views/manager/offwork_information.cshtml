@@ -1,0 +1,227 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var off = ViewData["off"] as List<Offwork>;
+    var staff = ViewData["staff"] as List<Worker>;
+}
+<head>
+
+
+    <script type="text/javascript">
+
+        function detele(i) {
+                var xmlhttp;
+                if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+                    xmlhttp = new XMLHttpRequest();
+                }
+                else {// code for IE6, IE5
+                    xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+                }
+
+                xmlhttp.onreadystatechange = function () {
+                    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                        window.location.href = "@Url.Action("offwork_information","manager")";
+                    }
+                }
+
+                xmlhttp.open("Post", "/manager/detele_off", true);
+                xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+                xmlhttp.send("num="+i);
+        }
+
+        function ch(i) {
+            var id = document.getElementById("wid_" + i).value;
+            var start = document.getElementById("starttime_" + i).value;
+            var end = document.getElementById("endtime_" + i).value;
+                var xmlhttp;
+                if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+                    xmlhttp = new XMLHttpRequest();
+                }
+                else {// code for IE6, IE5
+                    xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+                }
+
+                xmlhttp.onreadystatechange = function () {
+                    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                        window.location.href = "@Url.Action("offwork_information","manager")";
+                    }
+                }
+
+                xmlhttp.open("Post", "/manager/change_off", true);
+                xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+                xmlhttp.send("&num="+i+"&id="+id+"&starttime="+start+"&endtime="+end);
+        }
+
+        function add() {
+                var num = document.getElementById("num").value;
+                var id = document.getElementById("id_a" ).value;
+                var start = document.getElementById("start_a" ).value;
+                var end = document.getElementById("end_a").value;
+
+                var xmlhttp;
+                if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+                    xmlhttp = new XMLHttpRequest();
+                }
+                else {// code for IE6, IE5
+                    xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+                }
+
+                xmlhttp.onreadystatechange = function () {
+                    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                        window.location.href = "@Url.Action("offwork_information","manager")";
+                    }
+                }
+
+                xmlhttp.open("Post", "/manager/add_off", true);
+                xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+                xmlhttp.send("&num="+num+"&id="+id+"&starttime="+start+"&endtime="+end);
+        }
+
+        function search() {
+            var xmlhttp;
+            var id = document.getElementById("s_id" ).value;
+            var name = document.getElementById("s_name").value;
+        
+                if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+                    xmlhttp = new XMLHttpRequest();
+                }
+                else {// code for IE6, IE5
+                    xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+                }
+
+                xmlhttp.onreadystatechange = function () {
+                    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                        alert("查询成功");
+                        document.getElementById("table").innerHTML = xmlhttp.responseText;
+                            document.getElementById("mydiv").style.display = "";
+                            document.getElementById("div").style.display="none"                    }
+                }
+
+                xmlhttp.open("Post", "/manager/off_search", true);
+                xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+                xmlhttp.send("&id="+id+"&name="+name);
+        }
+
+
+    </script>
+
+</head>
+
+
+
+<div class="row">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h2 class="text-center">请假信息</h2>
+            <h3 class="text-danger">共 @off.Count 行信息</h3>
+        </div>
+        <div>
+            <input id="s_id" type="text" placeholder="精确查询（工号）" class="text-center form-control" style="width: 30%;" />
+            <input id="s_name" type="text" placeholder="模糊查询（姓名）" class="text-center form-control" style="width: 30%;" />
+            <button class="btn btn-success btn-icon-split" type="button" onclick="search()">查询</button>
+        </div>
+        <div id="mydiv" style="display:none">
+            <h3 class="text-center">查询结果</h3>
+            <table class="table table-striped table-bordered table-hover dataTable no-footer">
+                <thead>
+                    <tr role="row">
+                        <th tabindex="0" style="width: 8%;">
+                            行号
+                        </th>
+                        <th tabindex="0" style="width: 8%;">
+                            加班编号
+                        </th>
+                        <th tabindex="0" style="width: 5%;">
+                            工号
+                        </th>
+                        <th tabindex="0" style="width: 10%;">
+                            姓名
+                        </th>
+                        <th tabindex="0" style="width: 15%;">
+                            开始时间
+                        </th>
+                        <th tabindex="0" style="width: 15%;">
+                            结束时间
+                        </th>
+                        <th tabindex="0" style="width: 10%;">
+                            加班时长
+                        </th>
+                    </tr>
+                </thead>
+                <tbody id="table">
+                </tbody>
+            </table>
+
+        </div>
+
+        <div id="div" class="panel-body">
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered table-hover dataTable no-footer" id="dataTables-example">
+
+                    <thead>
+                        <tr>
+                            <th>
+                                行号
+                            </th>
+                            <th>
+                                加班编号
+                            </th>
+                            <th>
+                                工号
+                            </th>
+                            <th>
+                                姓名
+                            </th>
+                            <th>
+                                开始时间
+                            </th>
+                            <th>
+                                结束时间
+                            </th>
+                            <th>
+                                加班时长
+                            </th>
+                            <th>
+                                操作
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="even gradeC">
+                            <td> </td>
+                            <td><input id="num" type="text" placeholder="输入编号" class="text-center form-control" /></td>
+                            <td><input id="id_a" type="text" placeholder="输入工号" class="text-center form-control" /></td>
+                            <td>姓名将自动匹配</td>
+                            <td><input id="start_a" type="text" placeholder="输入开始时间" class="text-center form-control" /></td>
+                            <td><input id="end_a" type="text" placeholder="输入结束时间" class="text-center form-control" /></td>
+                            <td>加班时长自动计算</td>
+                            <td>
+                                <button class="btn btn-success btn-icon-split" type="button" onclick="add()">添加</button>
+                            </td>
+                        </tr>
+                        @for (int i = 0; i < off.Count; i++)
+                        {
+                            <tr class="odd gradeX">
+                                <td>@(i + 1)</td>
+                                <td>@off[i].OffNum</td>
+                                <td class="center "><input id="wid_@i" type="text" value="@off[i].WId" class="text-center form-control" /></td>
+                                <td class="center ">@staff[(int)off[i].WId - 1].WName</td>
+                                <td class="center "><input id="starttime_@i" type="text" value="@off[i].OffStartTime" class="text-center form-control" /></td>
+                                <td class="center "><input id="endtime_@i" type="text" value="@off[i].OffEndTime" class="text-center form-control" /></td>
+                                <td class="center ">@off[i].OffDuration"</td>
+                                <td class="center ">
+                                    <button class=" btn btn-success btn-icon-split" type="button" onclick="ch(@i)">修改</button>
+                                    <button class="btn btn-success btn-icon-split" type="button" onclick="detele(@i)">删除</button>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+
+</div>

@@ -1,0 +1,53 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+        var staff = ViewData["staff"] as List<Worker>;
+
+}
+<head>
+    <script type="text/javascript">
+        function im(){
+            var x = document.getElementById("input").value;
+
+             var xmlhttp;
+                if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+                    xmlhttp = new XMLHttpRequest();
+                }
+                else {// code for IE6, IE5
+                    xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+                }
+
+                xmlhttp.onreadystatechange = function () {
+                    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                        window.location.href = "@Url.Action("import","manager")";
+                        alert("导入成功");
+                    }
+                }
+
+                xmlhttp.open("Post", "/manager/import", true);
+                xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+                xmlhttp.send("&address="+x);
+        }
+    </script>
+</head>
+
+    <div class="center-block">
+        <br /><br /><br /><br /><br /><br /><br /><br />
+        <form role="form">
+            <div class="form-group has-success">
+                <label class="control-label" for="inputSuccess">输入文件所在地址</label>
+                <input type="text" placeholder="输入文件的地址，如：D:\staff.xlsx" class="form-control" id="input"style="width:50%">
+            </div>
+            <button class="btn btn-success btn-icon-split" id="" type="button" onclick="im()">
+                <span class="text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 确定 </font></font></span>
+            </button>
+        </form>
+    </div>
+<div>
+    @for(int i = 0; i < staff.Count; i++)
+    {
+        @staff[i].WName
+        <br />
+    }
+</div>

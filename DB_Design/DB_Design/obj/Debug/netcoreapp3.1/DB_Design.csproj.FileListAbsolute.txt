@@ -1,0 +1,282 @@
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\appsettings.json
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.exe
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.deps.json
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.runtimeconfig.json
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.runtimeconfig.dev.json
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.dll
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.pdb
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.Views.dll
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.Views.pdb
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.csprojAssemblyReference.cache
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.csproj.CoreCompileInputs.cache
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.MvcApplicationPartsAssemblyInfo.cache
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorAssemblyInfo.cache
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorAssemblyInfo.cs
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.AssemblyInfoInputs.cache
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.AssemblyInfo.cs
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.TagHelpers.input.cache
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.TagHelpers.output.cache
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorCoreGenerate.cache
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorTargetAssemblyInfo.cache
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorTargetAssemblyInfo.cs
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.Views.pdb
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\staticwebassets\DB_Design.StaticWebAssets.Manifest.cache
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\staticwebassets\DB_Design.StaticWebAssets.xml
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.dll
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.pdb
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.genruntimeconfig.cache
+D:\D ( Date File 2)\VS2019\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.csproj.CopyComplete
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\appsettings.json
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.exe
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.deps.json
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.runtimeconfig.json
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.runtimeconfig.dev.json
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.dll
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.pdb
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.Views.dll
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.Views.pdb
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.csprojAssemblyReference.cache
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.csproj.CoreCompileInputs.cache
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.MvcApplicationPartsAssemblyInfo.cache
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorAssemblyInfo.cache
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorAssemblyInfo.cs
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.AssemblyInfoInputs.cache
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.AssemblyInfo.cs
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.TagHelpers.input.cache
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.TagHelpers.output.cache
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorCoreGenerate.cache
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorTargetAssemblyInfo.cache
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorTargetAssemblyInfo.cs
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.Views.pdb
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\staticwebassets\DB_Design.StaticWebAssets.Manifest.cache
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\staticwebassets\DB_Design.StaticWebAssets.xml
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.dll
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.pdb
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.genruntimeconfig.cache
+D:\专业\数据库课设\实现阶段\DB_Design(第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.csproj.CopyComplete
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.exe
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.deps.json
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.runtimeconfig.json
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.pdb
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.Views.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.Views.pdb
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorAssemblyInfo.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorAssemblyInfo.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.TagHelpers.input.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.TagHelpers.output.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorCoreGenerate.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\manager\import.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\manager\overtime_information.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\staff\achievements.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\staff\find_achievements.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\statistics\attendance.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\statistics\bussiness.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\statistics\offwork.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\statistics\overtime.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorTargetAssemblyInfo.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.Views.pdb
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\staticwebassets\DB_Design.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\staticwebassets\DB_Design.StaticWebAssets.xml
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.pdb
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.csproj.CopyComplete
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版-未连接EF)\DB_Design (第1版-未连接EF)\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.exe
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.deps.json
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.runtimeconfig.json
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.pdb
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.Views.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_Design.Views.pdb
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorAssemblyInfo.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorAssemblyInfo.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.TagHelpers.input.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.TagHelpers.output.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorCoreGenerate.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\manager\import.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\manager\overtime_information.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\staff\find_achievements.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\statistics\attendance.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\statistics\bussiness.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\statistics\offwork.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\statistics\overtime.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.RazorTargetAssemblyInfo.cs
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.Views.pdb
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.csproj.CopyComplete
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\staticwebassets\DB_Design.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\staticwebassets\DB_Design.StaticWebAssets.xml
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.dll
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.pdb
+C:\Users\lenovo\Desktop\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_Design.genruntimeconfig.cache
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_design.exe
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_design.deps.json
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_design.runtimeconfig.json
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_design.runtimeconfig.dev.json
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_design.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_design.pdb
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_design.Views.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DB_design.Views.pdb
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.RazorAssemblyInfo.cache
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.RazorAssemblyInfo.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.AssemblyInfo.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.TagHelpers.input.cache
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.TagHelpers.output.cache
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.RazorCoreGenerate.cache
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\manager\import.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\manager\overtime_information.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\staff\find_achievements.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\statistics\attendance.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\statistics\bussiness.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\statistics\offwork.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\statistics\overtime.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.RazorTargetAssemblyInfo.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.Views.pdb
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.csproj.CopyComplete
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\staticwebassets\DB_design.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\staticwebassets\DB_design.StaticWebAssets.xml
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.pdb
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.genruntimeconfig.cache
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\DB_design.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\manager\offwork_information.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Business\Index.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Business\Query_Page.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\staff\attendance.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\staff\bussiness.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\staff\offwork.cshtml.g.cs
+C:\Users\lenovo\Documents\XiaoMiNet\Upupoo\Docker\config\QAQ\员工考勤系统\DB_Design (第1版)\DB_Design\DB_Design\obj\Debug\netcoreapp3.1\Razor\Views\staff\overtime.cshtml.g.cs
